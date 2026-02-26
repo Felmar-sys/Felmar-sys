@@ -43,13 +43,16 @@ O meu foco é construir fundações inabaláveis em engenharia de software. Atua
 <br/>
 
 ### 📊 Telemetria de Código
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felmar-sys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55960c&icon_color=55960c&text_color=c9d1d9&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felmar-sys&layout=compact&hide_border=true&bg_color=0D1117&title_color=55960c&text_color=c9d1d9&langs_count=6" />
+  <!-- Primeiro (Stats) e Último (Streak) juntos horizontalmente -->
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felmar-sys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55960c&icon_color=55960c&text_color=c9d1d9&include_all_commits=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=felmar-sys&theme=tokyonight&hide_border=true&stroke=55960c&ring=55960c&fire=55960c&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=felmar-sys&theme=tokyonight&hide_border=true&stroke=55960c&ring=55960c&fire=55960c" alt="GitHub Streak" />
+  <!-- Segundo (Linguagens) por baixo no centro -->
+  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felmar-sys&layout=compact&hide_border=true&bg_color=0D1117&title_color=55960c&text_color=c9d1d9&langs_count=6" />
 </p>
 
 <br/>
