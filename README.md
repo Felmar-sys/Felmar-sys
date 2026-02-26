@@ -38,6 +38,7 @@ O meu foco é construir fundações inabaláveis em engenharia de software. Atua
 <p align="left">
   <img src="./icons/arquitetura/git-original.svg" height="40" alt="Git" style="padding-right: 15px;" />
   <img src="./icons/arquitetura/linux-original.svg" height="40" alt="Linux" style="padding-right: 15px;" />
+  <img src="./icons/arquitetura/visualstudio_code-icon.svg" height="40" alt="Vscode" style="padding-right: 15px;" />
 </p>
 
 <br/>
