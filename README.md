@@ -45,6 +45,7 @@ O meu foco é construir fundações inabaláveis em engenharia de software. Atua
 ### 📊 Telemetria & Atividade
 
 <p align="left">
+
   <img src="https://img.shields.io/github/last-commit/Felmar-sys/o-projeto-odin?style=for-the-badge&color=55960c&label=Ultimo%20Commit&labelColor=0D1117" alt="Ultimo Commit" />
   <img src="https://img.shields.io/github/languages/top/Felmar-sys/o-projeto-odin?style=for-the-badge&color=236ad3&label=Linguagem&labelColor=0D1117" alt="Linguagem Principal" />
   <img src="https://img.shields.io/github/repo-size/Felmar-sys/o-projeto-odin?style=for-the-badge&color=55960c&label=Tamanho&labelColor=0D1117" alt="Tamanho" />
