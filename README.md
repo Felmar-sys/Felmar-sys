@@ -17,17 +17,21 @@ A traduzir lógica pura em sistemas robustos.
 
 O meu foco é construir fundações inabaláveis em engenharia de software. Atualmente a dominar os pilares do ecossistema web moderno, estruturando o conhecimento lógico e arquitetural para o desenvolvimento futuro de aplicações SPA (Single Page Applications) e APIs RESTful escaláveis. 
 
+<br/>
+
 > 🔄 **Checkpoint Atual:** Fundamentos de Web Design & Arquitetura CSS.
 
-<br/>
+
 
 ### 💻 Linguagens & Ecossistema
 
 <p align ="left">
-    <img src="./icons/linguagens/html5-original.svg" height="40" alt="MTLM5" style="padding-right: 15px;" />
+    <img src="./icons/linguagens/html5-original.svg" height="40" alt="HTML5" style="padding-right: 15px;" />
     <img src="./icons/linguagens/css3-original.svg" height="40" alt="CSS3" style="padding-right: 15px;" />
     <img src="./icons/linguagens/javascript-original.svg" height="40" alt="JavaScript" style="padding-right: 15px;" />
 </p>
+
+<br/>
 
 ### ⚙️ Arquitetura & Ferramentas
 
@@ -38,20 +42,13 @@ O meu foco é construir fundações inabaláveis em engenharia de software. Atua
 
 <br/>
 
-### 📊 Telemetria de Código
+### 📊 Telemetria & Atividade
 
-<div align="center">
-  <img 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=Felmar-sys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55960c&icon_color=55960c&text_color=c9d1d9&locale=pt-br" 
-    alt="Estatísticas do GitHub"
-  />
-  <img 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felmar-sys&layout=compact&hide_border=true&bg_color=0D1117&title_color=55960c&text_color=c9d1d9" 
-    alt="Linguagens mais utilizadas"
-  />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/github/last-commit/Felmar-sys/o-projeto-odin?style=for-the-badge&color=55960c&label=Último Commit&labelColor=0D1117" alt="Último Commit" />
+  <img src="https://img.shields.io/github/languages/top/Felmar-sys/o-projeto-odin?style=for-the-badge&color=236ad3&label=Linguagem Principal&labelColor=0D1117" alt="Linguagem Principal" />
+  <img src="https://img.shields.io/github/repo-size/Felmar-sys/o-projeto-odin?style=for-the-badge&color=55960c&label=Tamanho do Repositório&labelColor=0D1117" alt="Tamanho" />
+</p>
 
 <br/>
 
