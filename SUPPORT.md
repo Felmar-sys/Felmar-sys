@@ -1,19 +1,45 @@
-# 🚀 Hardware & Education Fund
+# 🚀 Felmar: Honrando o Passado, Arquitetando o Futuro
 
 Olá, eu sou o **Ferreira (Felmar)**. 
 
-A minha jornada no desenvolvimento de software em Moçambique é movida por um compromisso inabalável com a excelência técnica, apesar dos desafios de infraestrutura. Atualmente, dedico entre 10 a 15 horas diárias ao domínio do ecossistema Full Stack (The Odin Project & Full Stack Open - Helsínquia).
+O nome , **Felmar**, é uma homenagem aos meus falecidos pais: **Luciano** e **Maria**. Sou do Norte de Moçambique e carrego comigo a responsabilidade de ser a esperança tecnológica da minha família. Em agosto de 2023, perdi ambos num intervalo de apenas sete dias. Desde então, a minha luta contra o código é também uma luta pela honra do sacrifício que eles fizeram por mim.
 
-### 🎯 O Objetivo
-Para simular arquiteturas de sistemas massivos e rodar ambientes de desenvolvimento pesados com estabilidade, o meu foco atual é o upgrade da minha infraestrutura física:
-- **Hardware:** Aquisição de uma motherboard de alta performance (Asus ROG Strix X870E-E) e componentes compatíveis.
-- **Conectividade:** Implementação de internet estável (Starlink) para garantir consistência nos commits e estudos.
+### 🔬 A Jornada Técnica
+Não escolhi a programação apenas para mudar de vida, mas porque encontrei na Ciência da Computação uma lógica que me completa. 
 
-### ☕ Como Apoiar
-Se o meu progresso, o meu código ou a minha história te inspirarem, podes contribuir para este fundo de educação e hardware. Não há valores fixos; cada apoio é um investimento na formação de um novo Engenheiro de Sistemas para o mercado global.
+*   **O Caminho:** Passei por tutoriais e pelo FreeCodeCamp, mas senti que precisava de algo real. No **The Odin Project**, encontrei o profissionalismo que procurava. O meu plano é dominar o Full Stack JavaScript e, em seguida, atingir o nível de elite com o **Full Stack Open da Universidade de Helsínquia**.
+*   **A Filosofia:** Pratico o *Mastery Learning*. Não salto etapas e não engano o meu próprio progresso. A luta é contra mim mesmo e contra as distrações. Entender a lógica é o meu único norte.
 
-*   **Ko-fi (Taxa Zero):** [ko-fi.com/felmar](https://ko-fi.com/felmar) (Aceita qualquer valor)
-*   **Crypto (USDT - Rede Polygon):** `TEU_ENDEREÇO_TRUST_WALLET`
-*   **Crypto (USDT - Rede BSC/BEP20):** `TEU_ENDEREÇO_TRUST_WALLET`
+### 🛠️ O Desafio da Infraestrutura
+Atualmente, a minha maior barreira não é a lógica, mas a matéria. Estudo e construo sistemas num ambiente de extrema escassez:
+- **Hardware:** Um Intel i5-4570 com um HDD em estado crítico e uma tela com manchas permanentes. Cada linha de código é escrita numa corrida contra o tempo da máquina.
+- **Recursos:** Gero diariamente o equilíbrio entre megas de internet, estabilidade de energia e a subsistência básica para manter o foco total no ecrã (das 06h às 21h).
 
-> "Obrigado por investires no potencial de quem constrói em silêncio."
+Agradeço imensamente aos fundadores de currículos abertos. Eles disponibilizam gratuitamente o que custa milhões, permitindo que alguém como eu possa, um dia, ser chamado de **Engenheiro de Software**.
+
+### 🎯 O Objetivo: Upgrade de Sistemas
+Para simular arquiteturas massivas e garantir a consistência dos meus commits, foco na evolução da minha infraestrutura física:
+- **Hardware Profissional:** Upgrade para uma motherboard de alta performance (Asus ROG Strix X870E-E) e componentes capazes de suportar o meu ritmo de produção.
+- **Conectividade:** Implementação de internet estável (Starlink) para eliminar a barreira da latência e dos megas limitados.
+
+### ☕ Como Apoiar a Jornada
+Apoiar esta jornada é habilitar ferramentas; é dar uma mão **invisível** a uma causa. Comprometo-me a converter cada apoio diretamente em meios de produção: megas de internet, estabilidade de energia e componentes de hardware. 
+
+Por favor, considere apoiar através dos seguintes meios:
+
+*   **Binance ID (Binance Pay):** `TEU_ID_AQUI` 
+<!-- *   **USDT (Network: Polygon):** `TEU_ENDEREÇO_TRUST_WALLET`
+*   **USDT (Network: BSC/BEP20):** `TEU_ENDEREÇO_TRUST_WALLET` -->
+
+<!-- <br>
+
+<details>
+<summary><b>📸 Clique aqui para ver o QR Code (USDT)</b></summary>
+<p align="left">
+  <img src="./icons/apoio/qrcode.png" width="200" alt="QR Code de Apoio" />
+</p>
+</details> -->
+
+<br>
+
+> "Obrigado por investires na transformação real de uma vida. Com este gesto, não estás apenas a investir em hardware; estás a financiar a evolução de um desenvolvedor e a construir, comigo, um futuro, impulsionando soluções para o mundo e tornando-te parte de cada uma delas."
