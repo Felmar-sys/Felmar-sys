@@ -35,7 +35,8 @@ Apoiar esta jornada é habilitar ferramentas; é dar uma mão **invisível** a u
 
 Por favor, considere apoiar através dos seguintes meios:
 
-*   **Binance ID (Binance Pay):** `63799440` (Alcunha: `Ferrlinda258`)
+*   ![Binance Pay](https://img.shields.io/badge/Binance_Pay_ID-F3BA2F?style=flat-square&logo=binance&logoColor=black) `63799440` (Alcunha: `Ferrlinda258`)
+
 <!-- *   **USDT (Network: Polygon):** `TEU_ENDEREÇO_TRUST_WALLET`
 *   **USDT (Network: BSC/BEP20):** `TEU_ENDEREÇO_TRUST_WALLET` -->
 
