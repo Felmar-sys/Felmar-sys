@@ -63,6 +63,17 @@ Por favor, considere apoiar através dos seguintes meios:
 
 <br>
 
+<p align="center">
+  <a href="https://wa.me/258847354542" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:Ferrlinda.seo@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
+  </a>
+</p>
+
+<br>
+
 > "Obrigado por investires na transformação real de uma vida. Com este gesto, não estás apenas a investir em hardware; estás a financiar a evolução de um desenvolvedor e a construir, comigo, um futuro, impulsionando soluções para o mundo e tornando-te parte de cada uma delas."
 
 ---
