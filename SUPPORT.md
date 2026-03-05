@@ -5,16 +5,21 @@ Olá, eu sou o **Ferreira (Felmar)**.
 O nome , **Felmar**, é uma homenagem aos meus falecidos pais: **Luciano** e **Maria**. Sou do Norte de Moçambique e carrego comigo a responsabilidade de ser a esperança da minha família. Em agosto de 2023, perdi ambos num intervalo de apenas sete dias. Desde então, a minha luta contra o código é também uma luta pela honra do sacrifício que eles fizeram por mim.
 
 ### 🔬 A Jornada Técnica.
+
 Não escolhi a programação apenas para mudar de vida, mas porque encontrei na Ciência da Computação uma lógica que me completa. 
 
 *   **O Caminho:** Após explorar diversas plataformas, estabeleci o meu foco no *The Odin Project* pela sua exigência profissional. 
 
 O meu plano é consolidar o **Full Stack JavaScript** e, de seguida, continuar a especializar-me no nível de elite com o **Full Stack Open** da *Universidade de Helsínquia*.
+
 *   **A Filosofia:** Pratico o *Mastery Learning*. Não saltar etapas e não enganar o meu próprio progresso. A luta é contra mim mesmo e contra as distrações. Entender a lógica é o meu único norte.
 
 ### 🛠️ O Desafio da Infraestrutura.
+
 Atualmente, a minha maior barreira não é a lógica, mas a matéria. Estudo e construo sistemas num ambiente de extrema escassez:
+
 - **Hardware:** Estudo num Intel i5-4570 com um HDD em estado crítico e uma tela com manchas permanentes e degradado. Cada linha de código é escrita numa corrida contra o tempo da máquina.
+
 - **Recursos:** Gero diariamente o equilíbrio entre megas de internet, estabilidade de energia e a subsistência básica para manter o foco total no ecrã (constantemente).
 
 ### 🏛️ O Manifesto da Gratidão.
@@ -29,10 +34,15 @@ Eles disponibilizam gratuitamente currículos que valem milhões, permitindo que
 
 ### 🎯 O Objetivo: Upgrade de Sistemas.
 Para suportar simulações complexas e arquiteturas massivas, foco no upgrade da minha estação de trabalho:
+
 - **Hardware:** Transição para componentes de alta performance (Base Asus ROG Strix X870E-E / Ryzen).
+
 - **Conectividade:** Implementação de internet estável (Starlink) para eliminar a barreira da latência e dos megas limitados.
 
+- **Transparência:** Detalhes técnicos e o orçamento discriminado desta infraestrutura estão disponíveis mediante solicitação. *Por favor, Sinta-se a vontade para saber mais.*
+
 ### ☕ Como Apoiar a Jornada.
+
 Apoiar esta jornada é habilitar ferramentas; é dar uma mão **invisível** a uma causa. Comprometo-me a converter cada apoio diretamente em meios de produção: megas de internet, estabilidade de energia e componentes de hardware. 
 
 Por favor, considere apoiar através dos seguintes meios:
