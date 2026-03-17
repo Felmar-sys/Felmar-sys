@@ -1,19 +1,22 @@
-# 👨🏻‍💻 Felmar-sys (Ferreira)
+# 👨🏻‍💻 Felmar (Ferreira)
 
 **`Desenvolvedor Full Stack | Arquiteto de Sistemas`**
 
+> **Handle:** FelmArch  
+
+
 <p align="left">
-    <a href="https://github.com/Felmar-sys?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Felmar-sys?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+    <a href="https://github.com/FelmArch?tab=repositories&sort=stargazers">
+        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FelmArch?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
     </a>
-    <a href="https://github.com/Felmar-sys?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://img.shields.io/github/followers/Felmar-sys?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+    <a href="https://github.com/FelmArch?tab=followers">
+        <img alt="Seguidores" title="Me siga no GitHub" src="https://img.shields.io/github/followers/FelmArch?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
 </p>
 
 <br>
 
-Traduzindo lógica pura em arquitetura de software. 
+> *`Transformando lógica pura em sistemas robustos.`*
 
 Atualmente a dominar o ecossistema Full Stack (JavaScript/Node.js) através de uma abordagem orientada a fundamentos. A minha meta é transformar conceitos abstratos em APIs RESTful e SPAs de alta performance.
 
@@ -47,13 +50,13 @@ Atualmente a dominar o ecossistema Full Stack (JavaScript/Node.js) através de u
 
 <p align="center">
   <!-- Primeiro (Stats) e Último (Streak) juntos horizontalmente -->
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felmar-sys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55960c&icon_color=55960c&text_color=c9d1d9&include_all_commits=true" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=felmar-sys&theme=tokyonight&hide_border=true&stroke=55960c&ring=55960c&fire=55960c&background=0D1117" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felmArch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55960c&icon_color=55960c&text_color=c9d1d9&include_all_commits=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=felmArch&theme=tokyonight&hide_border=true&stroke=55960c&ring=55960c&fire=55960c&background=0D1117" />
 </p>
 
 <p align="center">
   <!-- Segundo (Linguagens) por baixo no centro -->
-  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felmar-sys&layout=compact&hide_border=true&bg_color=0D1117&title_color=55960c&text_color=c9d1d9&langs_count=6" />
+  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felmArch&layout=compact&hide_border=true&bg_color=0D1117&title_color=55960c&text_color=c9d1d9&langs_count=6" />
 </p>
 
 <br/>
