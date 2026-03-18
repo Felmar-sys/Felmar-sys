@@ -1,14 +1,15 @@
-# 🚀 Felmar: Honrando o Passado, Arquitetando o Futuro
+# 🚀 FelmArch: Honrando o Passado, Arquitetando o Futuro
 
-Olá, eu sou o **Ferreira (Felmar)**. 
+Olá, eu sou o **Ferreira (Felmar)**.
+`profissionalmente conhecido como FelmArch`.
 
-O nome , **Felmar**, é uma homenagem aos meus falecidos pais: **Luciano** e **Maria**. Sou do Norte de Moçambique e carrego comigo a responsabilidade de ser a esperança da minha família. Em agosto de 2023, perdi ambos num intervalo de apenas sete dias. Desde então, a minha luta contra o código é também uma luta pela honra do sacrifício que eles fizeram por mim.
+O nome , **Felmar**, é uma homenagem aos meus falecidos pais: **Luciano** e **Maria**. Sou do Norte de Moçambique e carrego comigo a responsabilidade de ser a esperança da minha linhagem. Em agosto de 2023, perdi ambos num intervalo de apenas sete dias. Desde então, a minha luta contra o código é também uma luta pela honra do sacrifício que eles fizeram por mim.
 
 ### 🔬 A Jornada Técnica.
 
 Não escolhi a programação apenas para mudar de vida, mas porque encontrei na Ciência da Computação uma lógica que me completa. 
 
-*   **O Caminho:** Após explorar diversas plataformas, estabeleci o meu foco no *The Odin Project* pela sua exigência profissional. 
+*   **O Caminho:** Após explorar diversas plataformas, estabeleci o meu foco no *The Odin Project* pela sua exigência profissional e profundidade. 
 
 O meu plano é consolidar o **Full Stack JavaScript** e, de seguida, continuar a especializar-me no nível de elite com o **Full Stack Open** da *Universidade de Helsínquia*.
 
