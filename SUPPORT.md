@@ -31,14 +31,14 @@ A minha evolução técnica, é impulsionada pela **generosidade daqueles** que 
 
 - Expresso imensamente a minha profunda gratidão aos **mentores e fundadores** do The Odin Project e do Full Stack Open (Helsínquia), e a todos que, direta ou indiretamente, abriram este caminho para mim.
 
-Eles disponibilizam gratuitamente currículos que valem milhões, permitindo que alguém como eu possa, um dia, ser chamado de **Engenheiro de Software Full Stack**.
+Eles disponibilizam gratuitamente currículos que valem fortunas, permitindo que alguém em qualquer lugar do mundo possa ser chamado de **Engenheiro**.
 
-- O meu compromisso é honrar este ato grandioso através de uma dedicação absoluta. Pretendo que, no futuro, o meu código possa retribuir e contribuir para a comunidade global de tecnologia — o ecossistema que hoje reconheço como a *minha nova **família***.
+- O meu compromisso é honrar este ato grandioso através de uma dedicação absoluta. Pretendo que, no futuro, o meu código retribua à comunidade global — o ecossistema que hoje reconheço como a *minha nova **família***.
 
 ### 🎯 O Objetivo: Upgrade de Sistemas.
 Para suportar simulações complexas e arquiteturas massivas, foco no upgrade da minha estação de trabalho:
 
-- **Hardware:** Transição para componentes de alta performance (Base Asus ROG Strix X870E-E / Ryzen).
+- **Hardware:** Transição para componentes de alta performance com foco em eficiência bruta (**Base ASRock X870E Taichi Lite / Ryzen AM5**).
 
 - **Conectividade:** Implementação de internet estável (Starlink) para eliminar a barreira da latência e dos megas limitados.
 
