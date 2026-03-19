@@ -43,7 +43,7 @@ Para suportar simulações complexas e arquiteturas massivas, foco no upgrade da
 - **Conectividade:** Implementação de internet estável (Starlink) para eliminar a barreira da latência e dos megas limitados.
 
 - **Transparência:** Detalhes técnicos e o orçamento discriminado desta infraestrutura estão disponíveis mediante solicitação. *Por favor, Sinta-se a vontade para saber mais.*
-[<img src="https://img.shields.io/badge/Ver_Orçamento_Detalhado-0D1117?style=for-the-badge&logo=google-sheets&logoColor=34A853&labelColor=0D1117" />](TEU_LINK_AQUI)
+[<img src="https://img.shields.io/badge/Ver_Orçamento_Detalhado-0D1117?style=for-the-badge&logo=google-sheets&logoColor=34A853&labelColor=0D1117" />](Auditando...)
 
 ### ☕ Como Apoiar a Jornada.
 
