@@ -9,9 +9,10 @@ O nome , **Felmar**, é uma homenagem aos meus falecidos pais: **Luciano** e **M
 
 Não escolhi a programação apenas para mudar de vida, mas porque encontrei na Ciência da Computação uma lógica que me completa. 
 
-*   **O Caminho:** Após explorar diversas plataformas, estabeleci o meu foco no *The Odin Project* pela sua exigência profissional e profundidade. 
+*   **O Caminho:** Estabeleci o meu foco em *currículos internacionais de alta exigência profissional e profundidade técnica*, focando na base sólida da **engenharia de software moderna**. 
 
-* **O Plano:** consolidar o **Full Stack JavaScript** e, de seguida, continuar a especializar-me no nível de elite com o **Full Stack Open** da *Universidade de Helsínquia*.
+
+* **O Plano:** Consolidar a arquitetura **Full Stack** e, de seguida, especializar-me em sistemas de nível europeu, com foco em escalabilidade e robustez.
 
 *   **A Filosofia:** Pratico o *Mastery Learning*. Não salto etapas e não engano o meu próprio progresso. A luta é contra mim mesmo e contra as distrações. Entender a lógica é o meu único norte.
 
@@ -29,9 +30,7 @@ estabilidade de energia e a subsistência básica para manter o foco total no ec
 
 A minha evolução técnica, é impulsionada pela **generosidade daqueles** que acreditam na democratização do conhecimento. 
 
-- Expresso imensamente a minha profunda gratidão aos **mentores e fundadores** do The Odin Project e do Full Stack Open (Helsínquia), e a todos que, direta ou indiretamente, abriram este caminho para mim.
-
-Eles disponibilizam gratuitamente currículos que valem fortunas, permitindo que alguém em qualquer lugar do mundo possa ser chamado de **Engenheiro**.
+- Expresso a minha profunda gratidão aos mentores e fundadores de **ecossistemas educativos de código aberto**, que disponibilizam currículos que valem *fortunas*, permitindo que alguém em qualquer lugar do mundo possa ser chamado de Engenheiro.
 
 - O meu compromisso é honrar este ato grandioso através de uma dedicação absoluta. Pretendo que, no futuro, o meu código retribua à comunidade global — o ecossistema que hoje reconheço como a *minha nova **família***.
 
