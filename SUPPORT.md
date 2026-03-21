@@ -12,7 +12,7 @@ Não escolhi a programação apenas para mudar de vida, mas porque encontrei na 
 *   **O Caminho:** Estabeleci o meu foco em *currículos internacionais de alta exigência profissional e profundidade técnica*, focando na base sólida da **engenharia de software moderna**. 
 
 
-* **O Plano:** Consolidar a arquitetura **Full Stack** e, de seguida, especializar-me em sistemas de nível europeu, com foco em escalabilidade e robustez.
+* **O Plano:** Consolidar a arquitetura **Full Stack** e, de seguida, especializar-me em arquiteturas de sistemas de escala global, focando em escalabilidade, robustez de alta performance e resiliência.
 
 *   **A Filosofia:** Pratico o *Mastery Learning*. Não salto etapas e não engano o meu próprio progresso. A luta é contra mim mesmo e contra as distrações. Entender a lógica é o meu único norte.
 
@@ -28,7 +28,7 @@ estabilidade de energia e a subsistência básica para manter o foco total no ec
 
 ### 🏛️ O Manifesto da Gratidão.
 
-A minha evolução técnica, é impulsionada pela **generosidade daqueles** que acreditam na democratização do conhecimento. 
+A minha evolução técnica, é impulsionada pela generosidade **de instituições globais** que acreditam na democratização do conhecimento. 
 
 - Expresso a minha profunda gratidão aos mentores e fundadores de **ecossistemas educativos de código aberto**, que disponibilizam currículos que valem *fortunas*, permitindo que alguém em qualquer lugar do mundo possa ser chamado de Engenheiro.
 
