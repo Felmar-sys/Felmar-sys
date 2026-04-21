@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Felmar (Ferreira)
 
-**`Desenvolvedor Full Stack | Arquiteto de Sistemas`**
+**`Desenvolvedor Full Stack | Em formação`**
 
 > **Handle:** FelmArch  
 
@@ -22,7 +22,7 @@ Atualmente a dominar o ecossistema Full Stack (JavaScript/Node.js) através de u
 
 <br/>
 
-> 🔄 **Checkpoint Atual:** Fundamentos de Web Design & Arquitetura CSS.
+> 🔄 **Checkpoint Atual:** JavaScript Foundations - Functions
 
 
 
