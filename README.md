@@ -18,7 +18,7 @@
 
 > *`Transformando lógica pura em sistemas robustos.`*
 
-Atualmente a dominar o ecossistema Full Stack (JavaScript/Node.js) através de uma abordagem orientada a fundamentos. A minha meta é evoluir fundamentos sólidos para construir APIs RESTful e SPAs de alta performance.
+Atualmente a consolidar o ecossistema Full Stack (JavaScript/Node.js) através de uma abordagem orientada a fundamentos. A minha meta é evoluir fundamentos sólidos para construir APIs RESTful e SPAs de alta performance.
 
 <br/>
 
